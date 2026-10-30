@@ -1,0 +1,5 @@
+.env
+.envv/
+__pycache__/
+*.pyc
+faiss_index/

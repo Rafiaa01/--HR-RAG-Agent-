@@ -1,0 +1,135 @@
+
+{
+  "E001": {
+    "name": "Ali Khan",
+    "department": "Engineering",
+    "designation": "Software Engineer",
+    "email": "ali.khan@example.com",
+    "joining_date": "2023-02-15",
+    "employment_type": "Full-time",
+    "total_leave_days": 20,
+    "used_leave_days": 7,
+    "manager": "Ahmed Raza"
+  },
+  "E002": {
+    "name": "Sara Ahmed",
+    "department": "Human Resources",
+    "designation": "HR Executive",
+    "email": "sara.ahmed@example.com",
+    "joining_date": "2022-06-10",
+    "employment_type": "Full-time",
+    "total_leave_days": 24,
+    "used_leave_days": 10,
+    "manager": "Ayesha Malik"
+  },
+  "E003": {
+    "name": "Usman Malik",
+    "department": "Finance",
+    "designation": "Accountant",
+    "email": "usman.malik@example.com",
+    "joining_date": "2024-01-08",
+    "employment_type": "Full-time",
+    "total_leave_days": 18,
+    "used_leave_days": 18,
+    "manager": "Hassan Ali"
+  },
+  "E004": {
+    "name": "Ayesha Noor",
+    "department": "Engineering",
+    "designation": "Backend Developer",
+    "email": "ayesha.noor@example.com",
+    "joining_date": "2023-08-21",
+    "employment_type": "Full-time",
+    "total_leave_days": 20,
+    "used_leave_days": 4,
+    "manager": "Ahmed Raza"
+  },
+  "E005": {
+    "name": "Hassan Raza",
+    "department": "Marketing",
+    "designation": "Marketing Specialist",
+    "email": "hassan.raza@example.com",
+    "joining_date": "2021-11-03",
+    "employment_type": "Full-time",
+    "total_leave_days": 22,
+    "used_leave_days": 12,
+    "manager": "Fatima Sheikh"
+  },
+  "E006": {
+    "name": "Fatima Sheikh",
+    "department": "Design",
+    "designation": "UI/UX Designer",
+    "email": "fatima.sheikh@example.com",
+    "joining_date": "2024-03-18",
+    "employment_type": "Full-time",
+    "total_leave_days": 20,
+    "used_leave_days": 2,
+    "manager": "Ayesha Malik"
+  },
+  "E007": {
+    "name": "Ahmed Raza",
+    "department": "Engineering",
+    "designation": "Engineering Manager",
+    "email": "ahmed.raza@example.com",
+    "joining_date": "2020-05-12",
+    "employment_type": "Full-time",
+    "total_leave_days": 25,
+    "used_leave_days": 9,
+    "manager": "Bilal Ahmed"
+  },
+  "E008": {
+    "name": "Mariam Iqbal",
+    "department": "Human Resources",
+    "designation": "Recruitment Specialist",
+    "email": "mariam.iqbal@example.com",
+    "joining_date": "2023-09-04",
+    "employment_type": "Contract",
+    "total_leave_days": 15,
+    "used_leave_days": 5,
+    "manager": "Sara Ahmed"
+  },
+  "E009": {
+    "name": "Bilal Ahmed",
+    "department": "Operations",
+    "designation": "Operations Manager",
+    "email": "bilal.ahmed@example.com",
+    "joining_date": "2019-07-22",
+    "employment_type": "Full-time",
+    "total_leave_days": 25,
+    "used_leave_days": 20,
+    "manager": "CEO"
+  },
+  "E010": {
+    "name": "Zainab Tariq",
+    "department": "Finance",
+    "designation": "Financial Analyst",
+    "email": "zainab.tariq@example.com",
+    "joining_date": "2022-12-01",
+    "employment_type": "Full-time",
+    "total_leave_days": 22,
+    "used_leave_days": 8,
+    "manager": "Hassan Ali"
+  },
+  "E011": {
+    "name": "Hamza Qureshi",
+    "department": "IT Support",
+    "designation": "IT Support Engineer",
+    "email": "hamza.qureshi@example.com",
+    "joining_date": "2024-06-17",
+    "employment_type": "Intern",
+    "total_leave_days": 10,
+    "used_leave_days": 3,
+    "manager": "Ahmed Raza"
+  },
+  "E012": {
+    "name": "Noor Fatima",
+    "department": "Marketing",
+    "designation": "Content Strategist",
+    "email": "noor.fatima@example.com",
+    "joining_date": "2023-04-11",
+    "employment_type": "Full-time",
+    "total_leave_days": 20,
+    "used_leave_days": 15,
+    "manager": "Fatima Sheikh"
+  }
+}
